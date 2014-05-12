@@ -1,0 +1,5 @@
+D:\Sankalpa\Projects\Sample\JasmineTDD\JasmineTDD\bin\JasmineTDD.dll
+D:\Sankalpa\Projects\Sample\JasmineTDD\JasmineTDD\bin\JasmineTDD.pdb
+D:\Sankalpa\Projects\Sample\JasmineTDD\JasmineTDD\obj\Debug\JasmineTDD.csprojResolveAssemblyReference.cache
+D:\Sankalpa\Projects\Sample\JasmineTDD\JasmineTDD\obj\Debug\JasmineTDD.dll
+D:\Sankalpa\Projects\Sample\JasmineTDD\JasmineTDD\obj\Debug\JasmineTDD.pdb
